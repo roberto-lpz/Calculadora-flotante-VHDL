@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/XilinxCode/Pruebas/CalculadoraADDMult/ADDMult_isim_beh.exe" -prj "/home/ise/XilinxCode/Pruebas/CalculadoraADDMult/ADDMult_beh.prj" "work.ADDMult" 

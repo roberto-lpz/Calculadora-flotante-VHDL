@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="CalculadoraADDMult.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="ADDMult.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ADDMult.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ADDMult.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="ADDMult.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ADDMult.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="ADDMult.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ADDMult.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="ADDMult.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="ADDMult.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="ADDMult.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ADDMult.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="ADDMult.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ADDMult.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ADDMult.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="ADDMult.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="ADDMult.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="ADDMult.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="ADDMult.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ADDMult.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ADDMult_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ADDMult_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="ADDMult_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ADDMult_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="ADDMult_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="ADDMult_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="ADDMult_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="ADDMult_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="ADDMult_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ADDMult_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ADDMult_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="ADDMult_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="ADDMult_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ADDMult_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="ADDMult_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="ADDMult_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="ADDMult_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ADDMult_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1750345083" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1750345083">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750346526" xil_pn:in_ck="2807720396295411290" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1750346526">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.vhd"/>
+      <outfile xil_pn:name="IEEE754ConvComb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345083" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-6663237748909370834" xil_pn:start_ts="1750345083">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345083" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-1685628136882417990" xil_pn:start_ts="1750345083">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345083" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="3547090547782237639" xil_pn:start_ts="1750345083">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750346526" xil_pn:in_ck="2807720396295411290" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1750346526">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.vhd"/>
+      <outfile xil_pn:name="IEEE754ConvComb.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1750346533" xil_pn:in_ck="2807720396295411290" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2929313245827691952" xil_pn:start_ts="1750346526">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ADDMult_beh.prj"/>
+      <outfile xil_pn:name="ADDMult_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1750346533" xil_pn:in_ck="1134812132865133882" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-5931129708427190691" xil_pn:start_ts="1750346533">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-339711400208061766" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="3547090547782237639" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-6663237748909370834" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="6075245583379680512" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344915" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-667373673555936495" xil_pn:start_ts="1750344915">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345424" xil_pn:in_ck="2807720396295411290" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-7199506905883073683" xil_pn:start_ts="1750345397">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="ADDMult.lso"/>
+      <outfile xil_pn:name="ADDMult.ngc"/>
+      <outfile xil_pn:name="ADDMult.ngr"/>
+      <outfile xil_pn:name="ADDMult.prj"/>
+      <outfile xil_pn:name="ADDMult.stx"/>
+      <outfile xil_pn:name="ADDMult.syr"/>
+      <outfile xil_pn:name="ADDMult.xst"/>
+      <outfile xil_pn:name="ADDMult_beh.prj"/>
+      <outfile xil_pn:name="ADDMult_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1750344944" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="5641533759188339363" xil_pn:start_ts="1750344944">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345435" xil_pn:in_ck="102807687855389649" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="8674945923178050047" xil_pn:start_ts="1750345424">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.bld"/>
+      <outfile xil_pn:name="ADDMult.ngd"/>
+      <outfile xil_pn:name="ADDMult_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345463" xil_pn:in_ck="102807687855389650" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="6289270943427689258" xil_pn:start_ts="1750345435">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.pcf"/>
+      <outfile xil_pn:name="ADDMult_map.map"/>
+      <outfile xil_pn:name="ADDMult_map.mrp"/>
+      <outfile xil_pn:name="ADDMult_map.ncd"/>
+      <outfile xil_pn:name="ADDMult_map.ngm"/>
+      <outfile xil_pn:name="ADDMult_map.xrpt"/>
+      <outfile xil_pn:name="ADDMult_summary.xml"/>
+      <outfile xil_pn:name="ADDMult_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345576" xil_pn:in_ck="7264408091915920363" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="7367957561374022844" xil_pn:start_ts="1750345463">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.ncd"/>
+      <outfile xil_pn:name="ADDMult.pad"/>
+      <outfile xil_pn:name="ADDMult.par"/>
+      <outfile xil_pn:name="ADDMult.ptwx"/>
+      <outfile xil_pn:name="ADDMult.unroutes"/>
+      <outfile xil_pn:name="ADDMult.xpi"/>
+      <outfile xil_pn:name="ADDMult_pad.csv"/>
+      <outfile xil_pn:name="ADDMult_pad.txt"/>
+      <outfile xil_pn:name="ADDMult_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1750345576" xil_pn:in_ck="102807687855389518" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1750345485">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDMult.twr"/>
+      <outfile xil_pn:name="ADDMult.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>
